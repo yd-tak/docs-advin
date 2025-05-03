@@ -17,8 +17,8 @@ To create a new job vacancy:
 ✅ **Goal:** Create a structured job vacancy to allow for accurate AI screening and scoring.  
 
 ---
-![Creating a new Job Vacancy 1](/static/screenshots/create-new-vacancy-interview-1.png)
-![Creating a new Job Vacancy 2](/static/screenshots/create-new-vacancy-interview-2.png)
+![Creating a new Job Vacancy 1](/screenshots/create-new-vacancy-interview-1.png)
+![Creating a new Job Vacancy 2](/screenshots/create-new-vacancy-interview-2.png)
 ---
 
 ## 📝 **2. Basic Job Details**
