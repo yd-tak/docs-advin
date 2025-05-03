@@ -37,18 +37,22 @@ The AI Interview process in Advin follows a structured flow:
 
 ✅ **Goal:** Ensure the interview reflects job-specific requirements.  
 
+![Interview Sequence](/screenshots/interview-sequence.png)
+
 ---
 
 ### 🔹 **(2) Candidate Invitation**
-- Candidates receive an invitation via email or SMS  
+- Candidates receive an invitation via email  
 - Candidate logs into the Advin portal  
 - Interview must be completed within a defined time limit  
 
 👉 **Example:**  
-- Email sent to candidate → **24-hour expiration**  
+- Email sent to candidate → **User Defined-days expiration**  
 - Candidate logs in and starts the interview  
 
 ✅ **Goal:** Provide a smooth candidate experience.  
+
+![Interview Email](/screenshots/interview-email.png)
 
 ---
 
@@ -70,6 +74,8 @@ Advin’s AI evaluates answers based on four key dimensions:
 
 ✅ **Goal:** Provide a consistent and objective evaluation of candidate responses.  
 
+![Interview Detail](/screenshots/interview-detail-2.png)
+
 ---
 
 ### 🔹 **(4) Scoring Calculation**
@@ -90,6 +96,8 @@ The AI assigns a weighted score based on the defined scoring structure:
 ➡️ **Final Score** = **86%**  
 
 ✅ **Goal:** Generate a balanced and fair interview score.  
+
+![Interview Raport](/screenshots/interview-raport.png)
 
 ---
 
