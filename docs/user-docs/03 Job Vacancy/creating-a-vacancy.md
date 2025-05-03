@@ -17,9 +17,6 @@ To create a new job vacancy:
 ✅ **Goal:** Create a structured job vacancy to allow for accurate AI screening and scoring.  
 
 ---
-![Creating a new Job Vacancy 1](/screenshots/create-new-vacancy-interview-1.png)
-![Creating a new Job Vacancy 2](/screenshots/create-new-vacancy-interview-2.png)
----
 
 ## 📝 **2. Basic Job Details**
 Fill out the core job vacancy details. These fields are used by Advin to match and score candidates accurately.
@@ -48,6 +45,11 @@ Fill out the core job vacancy details. These fields are used by Advin to match a
 We are looking for a Senior Software Engineer with expertise in PHP and Python. The ideal candidate will have experience working with microservices architecture and cloud platforms. Responsibilities include building scalable web applications and collaborating with the product team to define and implement new features.
 
 ✅ **Goal:** Provide clear expectations for the job to help candidates assess their fit.  
+
+---
+
+![Creating a new Job Vacancy 1](/screenshots/create-new-vacancy-general-1.png)
+![Creating a new Job Vacancy 2](/screenshots/create-new-vacancy-general-2.png)
 
 ---
 
@@ -81,6 +83,11 @@ You can define up to **5 interview sequences** for each vacancy. Each sequence i
 
 ---
 
+![Creating a new Job Interview 1](/screenshots/create-new-vacancy-interview-1.png)
+![Creating a new Job Interview 2](/screenshots/create-new-vacancy-interview-2.png)
+
+---
+
 ## 🚀 **5. Hiring Stages**
 You can define a custom hiring process for each job vacancy.
 
@@ -89,14 +96,15 @@ You can define a custom hiring process for each job vacancy.
 |-------|-------------|
 | **Pending** | Application is submitted and under review |
 | **AI Interview** | Candidate is invited to an AI interview |
-| **Shortlist #1** | Candidate passes initial screening |
-| **Interview #1** | First human interview |
-| **Shortlist #2** | Candidate passes to final screening |
 | **Offering** | Job offer is made to the candidate |
 | **Accepted** | Candidate accepts the job offer |
 | **Rejected** | Candidate is rejected |
 
 ✅ **Goal:** Streamline the recruitment flow and status tracking.  
+
+---
+
+![Creating a new Job Hiring Steps](/screenshots/create-new-vacancy-hiring.png)
 
 ---
 
@@ -124,6 +132,10 @@ Once all fields are filled:
 ✅ Click **Save Vacancy**  
 ✅ Advin will generate the AI interview structure  
 ✅ The job vacancy will appear on the job board  
+
+---
+
+![Creating a new Job Hiring Steps](/screenshots/ongoing-vacancy.png)
 
 ---
 
