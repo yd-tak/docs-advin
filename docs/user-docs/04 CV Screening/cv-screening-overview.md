@@ -6,6 +6,8 @@ sidebar_position: 1
 
 Advin automates the CV screening process using AI to extract, analyze, and score candidate profiles based on predefined job criteria. This allows recruiters to focus on high-potential candidates while eliminating manual screening effort.
 
+![CV Score Example](/screenshots/cv-score.png)
+
 ---
 
 ## 🏆 **1. What is CV Screening?**
@@ -162,27 +164,7 @@ Advin allows you to define custom score thresholds for each job type.
 
 ---
 
-## 🚀 **5. Customizing CV Scoring**
-You can customize how CV components are weighted for each job type:
-
-### ✅ **Example Configuration:**
-- Senior Developer:  
-   - Relevant Experience = **40%**  
-   - Technical Skills = **30%**  
-   - Education = **10%**  
-   - Certifications = **20%**  
-
-- Junior Developer:  
-   - Relevant Experience = **20%**  
-   - Technical Skills = **40%**  
-   - Education = **20%**  
-   - Certifications = **10%**  
-
-✅ **Goal:** Tailor scoring to match different job types.  
-
----
-
-## 🔎 **6. CV Screening Example**
+## 🔎 **5. CV Screening Example**
 **Position:** Backend Developer  
 - Minimum CV Score: **60%**  
 - CV Component Weighting:  
@@ -206,7 +188,7 @@ You can customize how CV components are weighted for each job type:
 
 ---
 
-## ✅ **7. Saving the CV Screening Configuration**
+## ✅ **6. Saving the CV Screening Configuration**
 Once all configurations are set:  
 ✅ Click **Save Settings**  
 ✅ Advin will automatically apply the rules to new applications  
