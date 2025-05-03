@@ -10,12 +10,15 @@ Advin allows you to create job vacancies with highly customizable settings, incl
 
 ## 🛠️ **1. Accessing the Job Vacancy Page**
 To create a new job vacancy:  
-1. Go to **Dashboard → Job Vacancies**  
-2. Click on **Create New Vacancy**  
+1. Go to **Dashboard → Recruitment**  
+2. Click on **Create New**  
 3. Fill out the following fields  
 
 ✅ **Goal:** Create a structured job vacancy to allow for accurate AI screening and scoring.  
 
+---
+![Creating a new Job Vacancy 1](/static/screenshots/create-new-vacancy-interview-1.png)
+![Creating a new Job Vacancy 2](/static/screenshots/create-new-vacancy-interview-2.png)
 ---
 
 ## 📝 **2. Basic Job Details**
