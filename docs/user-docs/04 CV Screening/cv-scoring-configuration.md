@@ -15,6 +15,10 @@ CV Scoring Configuration allows you to define how different CV components contri
 ✅ Define score weights for specific job criteria  
 ✅ Create consistent evaluation across different roles  
 
+You can access the CV Scoring Configuration menu from. **Settings > Scoring Matrix > CV Scoring**
+
+![CV Score Example](/screenshots/cv-scoring-matrix.png)
+
 ---
 
 ## 📊 **2. Default CV Scoring Matrix**

@@ -19,6 +19,10 @@ Penalties help recruiters manage hiring costs and prevent overqualified candidat
 
 ✅ **Goal:** Ensure a balanced and realistic candidate evaluation process.  
 
+You can access the CV Scoring Configuration menu from. **Settings > Scoring Matrix > CV Scoring**
+
+![Scoring Penalty](/screenshots/scoring-penalty.png)
+
 ---
 
 ## 📉 **2. Types of CV Penalties**
