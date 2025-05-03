@@ -6,6 +6,8 @@ sidebar_position: 2
 
 Advin allows you to define a **custom scoring formula** to evaluate candidates based on both their CV and interview performance. You can adjust the weight of CV scores and interview scores, set evaluation strictness, and define score penalties to match your recruitment needs.
 
+You can access the menu from **SETTING > SCORING MATRIX**
+
 ---
 
 ## 🏆 **1. Total Score Formula**
@@ -23,6 +25,8 @@ The total score is calculated using a weighted formula that combines the **CV Sc
 ➡️ Final Score = (CV Score × 30%) + (Interview Score × 70%)  
 
 ✅ **Goal:** Define the relative importance of CV vs Interview performance in the final score.  
+
+![Total Score Setting](/screenshots/total-score-formula.png)
 
 ---
 
@@ -44,6 +48,8 @@ You can adjust the AI scoring nature to control how strict or lenient the AI eva
 
 ✅ **Goal:** Adjust AI flexibility based on the type of role or company culture.  
 
+![Scoring Nature](/screenshots/scoring-nature.png)
+
 ---
 
 ## 🚨 **3. Total Score Penalty**
@@ -61,6 +67,8 @@ Advin allows you to set penalties for candidates whose salary expectations excee
 - If a candidate’s expected salary exceeds the budget by 20%, and the penalty is set at 20%, their final score will be reduced by 20%.  
 
 ✅ **Goal:** Ensure candidates align with budget expectations.  
+
+![Scoring Penalty](/screenshots/scoring-penalty.png)
 
 ---
 
@@ -84,6 +92,8 @@ Advin allows you to define how CV components are weighted in the total CV score.
 
 ✅ **Goal:** Ensure CV components are scored based on job relevance.  
 
+![CV Scoring Matrix](/screenshots/cv-scoring-matrix.png)
+
 ---
 
 ## 🎙️ **5. Interview Score Matrix**
@@ -101,6 +111,8 @@ You can adjust how each part of the AI interview is scored.
 - If **Goal Alignment** is weighted at 30%, and the candidate scores 80%, the weighted score is **80 × 30% = 24**.  
 
 ✅ **Goal:** Align interview scoring with the company’s hiring priorities.  
+
+![Interview Scoring Matrix](/screenshots/interview-scoring-matrix.png)
 
 ---
 

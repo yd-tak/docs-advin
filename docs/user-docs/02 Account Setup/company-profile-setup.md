@@ -18,6 +18,9 @@ Follow these steps to access the company profile setup:
 ---
 
 ## 📝 **2. Company Information**
+
+![Company Profile](/screenshots/company-profile.png)
+
 You will need to fill out the following fields:  
 
 | Field | Description | Example |
